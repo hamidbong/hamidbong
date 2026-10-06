@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Hamid Bong Brahim 👋
 
-<!--
-**hamidbong/hamidbong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps & DevSecOps Engineer
 
-Here are some ideas to get you started:
+I build and secure cloud-native infrastructure with a focus on Kubernetes, CI/CD automation, infrastructure as code, and application security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core skills
+
+- **Cloud & Infrastructure:** OpenStack, Linux, Docker, Kubernetes
+- **DevOps:** CI/CD, Jenkins, Infrastructure as Code
+- **DevSecOps:** Secret management, vulnerability detection, container security
+- **Development:** JavaScript, Python, Java
+- **Observability:** Monitoring, logging, and high-availability systems
+
+### Featured projects
+
+- [DevOps Project](https://github.com/hamidbong/devops-project.git) — Microservices application with automated deployment
+- [OpenStack Architecture Deployment](https://github.com/hamidbong/openstack-architecture-deployment.git) — Manual OpenStack deployment and configuration
+- [Git Secret Incident Response](https://github.com/hamidbong/git-secret-incident-response.git) — Detecting and preventing secret leaks
+
+### Currently looking for
+
+Opportunities as a DevOps, DevSecOps, SysAdmin, Cloud, or Kubernetes Engineer.
+
+[Portfolio](https://www.hamidbong.dev) · [LinkedIn](www.linkedin.com/in/hamid-bong-brahim)
